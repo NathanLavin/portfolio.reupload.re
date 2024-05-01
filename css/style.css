@@ -181,7 +181,6 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
-	
 	background-position: center center;
 	min-height: 650px;
 	width: 100%;
@@ -198,7 +197,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #workwrap h1 {
-	color:#ffffff;
+	color: #ffffff;
 	padding-top: 10px;
 	padding-bottom: 20px;
 	letter-spacing: 4px;
@@ -259,7 +258,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #contactwrap h1 {
-	color:#ffffff;
+	color:black;
 	padding-top: 10px;
 	padding-bottom: 20px;
 	letter-spacing: 4px;
